@@ -1,0 +1,1 @@
+var json_PEMAKAMAN_15 = {"type":"FeatureCollection","name":"PEMAKAMAN_15","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","nama":"Tempat Pemakaman Desa Kranggan"},"geometry":null},{"type":"Feature","properties":{"id":"2","nama":"BAYUR ( Pemakaman raja )"},"geometry":null}]}
